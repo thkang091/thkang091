@@ -12,10 +12,10 @@
 
 > *"I love building things that solve real-world problems"*
 
-🎓 **Computer Science Student** @ University of Minnesota (GPA: 3.73) | Expected May 2027  
+🎓 **Computer Science Student** @ University of Minnesota
 💼 **Full Stack Developer & Tech Lead** @ App Developer Club  
 🌟 **Stanford Student Instructor** - Mentoring the next generation  
-📍 **Minneapolis, MN** | 📧 kang0493@umn.edu | 📱 (217) 974-6228
+📍 **Minneapolis, MN** | 📧 kang0493@umn.edu 
 
 ### 🎯 Quick Stats
 - 🔭 Currently architecting solutions for **8M+ users**
@@ -95,21 +95,6 @@
 **🎯 Impact:** 30% faster load times | 90% code coverage | Cross-platform accessibility
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thkang091&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thkang091&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thkang091&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=thkang091&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 ## 🎯 Leadership & Impact
@@ -139,19 +124,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-[![Taehoon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thkang091&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=thkang091&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
