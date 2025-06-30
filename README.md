@@ -160,25 +160,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taehoon-kang/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kang0493@umn.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thkang091)
-
-**💡 Always open to collaborating on innovative projects that make a difference!**
-
-</div>
-
----
-
-<div align="center">
-
-**💡 Always open to collaborating on innovative projects that make a difference!**
-
-</div>
-
----
-
-<div align="center">
-  
-**Thanks for visiting! 🚀 Let's build something amazing together!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=thkang091&color=brightgreen&style=flat-square)
-
-</div>
