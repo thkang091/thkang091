@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%26+Tech+Lead;Building+Solutions+for+Real+Problems;CS+Student+%40+University+of+Minnesota;Passionate+about+AI+%26+Cloud+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AR+Developer+%40+Snap+Inc;Full+Stack+Developer+%26+Tech+Lead;Building+Solutions+for+Real+Problems;CS+Student+%40+University+of+Minnesota;Passionate+about+AI+%26+Cloud+Tech)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,13 +12,15 @@
 
 > *"I love building things that solve real-world problems"*
 
-🎓 **Computer Science Student** @ University of Minnesota (GPA: 3.73) | Expected May 2027  
+🎓 **Computer Science Student** @ University of Minnesota
 💼 **Full Stack Developer & Tech Lead** @ App Developer Club  
+🥽 **AR Developer** @ Snap Inc  
 🌟 **Stanford Student Instructor** - Mentoring the next generation  
-📍 **Minneapolis, MN** | 📧 kang0493@umn.edu | 📱 (217) 974-6228
+📍 **Minneapolis, MN** | 📧 kang0493@umn.edu 
 
 ### 🎯 Quick Stats
 - 🔭 Currently architecting solutions for **8M+ users**
+- 🥽 Building immersive **AR experiences** at Snap Inc
 - 🌱 Learning advanced **AI/ML** and **Cloud Architecture**  
 - 👥 Led teams of **12+ developers**
 - 🎓 Mentored **35+ students** in programming
@@ -128,16 +130,24 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
+
+### 🥽 Snap Inc - AR Developer
+- **🌟 Innovation:** Creating immersive AR experiences
+- **📱 Platform:** Developing for Snapchat's AR ecosystem
+- **🎨 Design:** Blending creativity with Lens Studio
+- **🚀 Impact:** Reaching millions of users worldwide
+
+</td>
+<td width="33%">
 
 ### 👨‍💼 App Developer Club - Tech Lead
-- **🏗️ Architecture:** Directed 5+ projects for 10K+ users
 - **📈 Efficiency:** 50% faster code reviews, 80% fewer bugs
 - **👥 Mentorship:** Weekly workshops for 20+ developers
 - **🛠️ Standards:** Established development best practices
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 👨‍🏫 Stanford Student Instructor
 - **📚 Teaching:** Mentored 15+ Python students
