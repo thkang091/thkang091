@@ -12,10 +12,10 @@
 
 > *"I love building things that solve real-world problems"*
 
-🎓 **Computer Science Student** @ University of Minnesota
+🎓 **Computer Science Student** @ University of Minnesota (GPA: 3.73) | Expected May 2027  
 💼 **Full Stack Developer & Tech Lead** @ App Developer Club  
 🌟 **Stanford Student Instructor** - Mentoring the next generation  
-📍 **Minneapolis, MN** | 📧 kang0493@umn.edu 
+📍 **Minneapolis, MN** | 📧 kang0493@umn.edu | 📱 (217) 974-6228
 
 ### 🎯 Quick Stats
 - 🔭 Currently architecting solutions for **8M+ users**
@@ -94,7 +94,34 @@
 
 **🎯 Impact:** 30% faster load times | 90% code coverage | Cross-platform accessibility
 
+---
+
+### 📚 SlangTerm - Gen Z Dictionary & Learning Platform
+*Bridging generational communication gaps through interactive slang education*
+
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)]()
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)]()
+
+**🎯 Features:** Real-time slang updates | Interactive learning modules | Community contributions
+
+---
+
+### 🏠 MoveOut Sale - Student Marketplace
+*Sustainable platform for students to buy/sell items during move-out seasons*
+
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)]()
+[![Google Maps API](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white)]()
+[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)]()
+
+**🎯 Impact:** Reducing campus waste | Location-based listings | Secure payment integration
+
 </div>
+
+
+
 ---
 
 ## 🎯 Leadership & Impact
@@ -122,7 +149,6 @@
 </tr>
 </table>
 
----
 
 
 ---
@@ -142,10 +168,15 @@
 ---
 
 <div align="center">
-  
-### 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
 
+**💡 Always open to collaborating on innovative projects that make a difference!**
+
+</div>
+
+---
+
+<div align="center">
+  
 **Thanks for visiting! 🚀 Let's build something amazing together!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thkang091&color=brightgreen&style=flat-square)
