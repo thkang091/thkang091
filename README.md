@@ -14,7 +14,7 @@
 
 🎓 **Computer Science Student** @ University of Minnesota
 💼 **Full Stack Developer & Tech Lead** @ App Developer Club  
-🥽 **AR Developer** @ Snap Inc  
+🥽 **Lens Scholar** @ Snap Inc  
 🌟 **Stanford Student Instructor** - Mentoring the next generation  
 📍 **Minneapolis, MN** | 📧 kang0493@umn.edu 
 
@@ -132,7 +132,7 @@
 <tr>
 <td width="33%">
 
-### 🥽 Snap Inc - AR Developer
+### 🥽 Snap Inc - Lens Scholar
 - **🌟 Innovation:** Creating immersive AR experiences
 - **📱 Platform:** Developing for Snapchat's AR ecosystem
 - **🎨 Design:** Blending creativity with Lens Studio
