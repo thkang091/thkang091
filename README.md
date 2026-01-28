@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Lens+Scholar+%40+Snap+Inc;Full+Stack+Developer+%26+Tech+Lead;Building+Solutions+for+Real+Problems;CS+Student+%40+University+of+Minnesota;Passionate+about+AI+%26+Cloud+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer+%40+Snap+Inc;Full+Stack+Developer+%26+Tech+Lead;Building+Solutions+for+Real+Problems;CS+Student+%40+University+of+Minnesota;Passionate+about+AI+%26+Cloud+Tech)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,8 +13,7 @@
 > *"I love building things that solve real-world problems"*
 
 🎓 **Computer Science Student** @ University of Minnesota
-💼 **Full Stack Developer & Tech Lead** @ App Developer Club  
-🥽 **Lens Scholar** @ Snap Inc  
+🥽 **Software Engineer Intern** @ Snap Inc  
 🌟 **Stanford Student Instructor** - Mentoring the next generation  
 📍 **Minneapolis, MN** | 📧 kang0493@umn.edu 
 
@@ -132,7 +131,7 @@
 <tr>
 <td width="33%">
 
-### 🥽 Snap Inc - Lens Scholar
+### 🥽 Snap Inc - Software Engineer Intern
 - **🌟 Innovation:** Creating immersive AR experiences
 - **📱 Platform:** Developing for Snapchat's AR ecosystem
 - **🎨 Design:** Blending creativity with Lens Studio
