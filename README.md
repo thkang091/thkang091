@@ -12,10 +12,11 @@
 
 > *"I love building things that solve real-world problems"*
 
-🎓 **Computer Science Student** @ University of Minnesota
+🎓 **Computer Science Student** @ University of Minnesota  
 🥽 **Software Engineer Intern** @ Snap Inc  
-🌟 **Stanford Student Instructor** - Mentoring the next generation  
-📍 **Minneapolis, MN** | 📧 kang0493@umn.edu 
+🌟 **Stanford Student Instructor** – Mentoring the next generation  
+📍 **Minneapolis, MN** | 📧 **kang0493@umn.edu**
+
 
 ### 🎯 Quick Stats
 - 🔭 Currently architecting solutions for **8M+ users**
