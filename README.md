@@ -1,172 +1,198 @@
-# Hey there! 👋 I'm Taehoon Kang
+# Hey there! I'm Taehoon Kang
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer+%40+Snap+Inc;Full+Stack+Developer+%26+Tech+Lead;Building+Solutions+for+Real+Problems;CS+Student+%40+University+of+Minnesota;Passionate+about+AI+%26+Cloud+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=CS+Student+%40+University+of+Minnesota;Incoming+Software+Engineer+Intern+%40+Microsoft;Snap+Lens+Scholar;AI+Systems+%26+Product+Engineering;Inference+Benchmarking+%26+LLM+Evaluation;Building+Useful+Software+for+Real+Problems)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-> *"I love building things that solve real-world problems"*
+> *"I like building systems that are technically rigorous and useful in practice."*
 
-🎓 **Computer Science Student** @ University of Minnesota  
-🥽 **Software Engineer Intern** @ Snap Inc  
-🌟 **Stanford Student Instructor** – Mentoring the next generation  
-📍 **Minneapolis, MN** | 📧 **kang0493@umn.edu**
+**Computer Science Student** @ University of Minnesota  
+**Incoming Software Engineer Intern** @ Microsoft  
+**Snap Lens Scholar** @ Snap Inc  
+**Student Instructor** @ Stanford Code in Place  
+**Undergraduate Research Intern** @ Minnesota Supercomputing Institute  
+**Location:** Minneapolis, MN | **Email:** thkang091@gmail.com
 
+### Current Focus
 
-### 🎯 Quick Stats
-- 🔭 Currently architecting solutions for **8M+ users**
-- 🥽 Building immersive **AR experiences** at Snap Inc
-- 🌱 Learning advanced **AI/ML** and **Cloud Architecture**  
-- 👥 Led teams of **12+ developers**
-- 🎓 Mentored **35+ students** in programming
-- ⚡ Achieved **99.8% uptime** in production systems
+- AI systems and inference benchmarking
+- LLM evaluation and document AI infrastructure
+- Backend, mobile, and cloud-connected product engineering
+- Reliable software for real-world workflows
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### AI / ML Systems
 
-### Backend & Databases
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-Inference-4B5563?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-GPU_Benchmarking-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM-Evaluation-111827?style=for-the-badge)
+
+### Backend, Cloud, and Infrastructure
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Cloud & AI/ML
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### Product and Mobile
+
+![Swift](https://img.shields.io/badge/Swift-iOS-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-iOS-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REST APIs](https://img.shields.io/badge/REST_APIs-Backend-374151?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-### 🌐 Gopher Tunnel - 3D Campus Navigation
-*Serving 8M+ users across 50+ university buildings*
+### DraftVerifyBench
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)]()
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
-[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)]()
-[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)]()
+*GPU inference benchmarking framework for studying when speculative decoding helps or hurts LLM inference.*
 
-**🎯 Impact:** 10K+ concurrent routing requests | 99.8% uptime | Sub-200ms API response times
+[![Repository](https://img.shields.io/badge/Repository-DraftVerifyBench-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thkang091/DraftVerifyBench)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)]()
+[![vLLM](https://img.shields.io/badge/vLLM-Inference-4B5563?style=flat-square)]()
+[![CUDA](https://img.shields.io/badge/CUDA-GH200-76B900?style=flat-square&logo=nvidia&logoColor=white)]()
 
----
+**Focus:** Speculative decoding | GPU latency benchmarking | Model routing | Reproducible ML systems evaluation
 
-### 💰 Budget Tracker - Community Financial Platform
-*Connecting users around financial goals with real-time collaboration*
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)]()
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)]()
-
-**🎯 Impact:** 30% faster load times | 90% code coverage | Cross-platform accessibility
+- Benchmarked Qwen 2.5 and Llama 3 draft/verifier pairs on an NVIDIA GH200 480GB.
+- Measured speculative-decoding latency across 1,800 benchmark rows and two seeds per model family.
+- Characterized slowdown regimes where draft-model overhead can dominate verifier-call savings.
+- Built reproducible tooling with raw traces, YAML configs, summaries, tests, and report-style analysis.
 
 ---
 
-### 📚 SlangTerm - Gen Z Dictionary & Learning Platform
-*Bridging generational communication gaps through interactive slang education*
+### ReceiptInject
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)]()
-[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)]()
+*LLM document-agent evaluation infrastructure for testing extraction systems under embedded prompt-injection attacks.*
 
-**🎯 Features:** Real-time slang updates | Interactive learning modules | Community contributions
+[![Repository](https://img.shields.io/badge/Repository-ReceiptInject-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thkang091/ReceiptInject)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)]()
+
+**Focus:** LLM evaluation | Document AI | Agent safety | Provider benchmarking | Reproducible pipelines
+
+- Evaluated OpenAI, Mistral, and Gemini document agents across synthetic receipts, invoices, policies, and bank statements.
+- Produced a reproducible 2,700-row benchmark across 300 examples, 3 providers, and 3 prompting strategies.
+- Measured malicious-instruction compliance, safe completion, and unsafe tool-execution risk.
+- Built a Dockerized FastAPI pipeline with provider abstraction, SQLite caching, structured logging, and resumable runs.
 
 ---
 
-### 🏠 MoveOut Sale - Student Marketplace
-*Sustainable platform for students to buy/sell items during move-out seasons*
+### Dutchie
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)]()
-[![Google Maps API](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white)]()
-[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)]()
+*AI-assisted receipt and expense-splitting app focused on making shared payments easier and more accurate.*
 
-**🎯 Impact:** Reducing campus waste | Location-based listings | Secure payment integration
+[![Repository](https://img.shields.io/badge/Repository-Dutchie-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thkang091/Dutchie)
+[![Swift](https://img.shields.io/badge/Swift-iOS-FA7343?style=flat-square&logo=swift&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)]()
+[![OCR](https://img.shields.io/badge/OCR-Document_AI-374151?style=flat-square)]()
+[![LLM](https://img.shields.io/badge/LLM-Extraction-111827?style=flat-square)]()
+
+**Focus:** Mobile engineering | OCR/Document AI | Expense splitting | Group balances | Product correctness
+
+- Built receipt and statement workflows for scanning, parsing, reviewing, and splitting shared expenses.
+- Integrated OCR/LLM-based extraction with validation for items, subtotal, tax, tip, discounts, and totals.
+- Designed group balance and settlement flows to help users track who owes whom across shared expenses.
+- Focused on correctness and reducing the risk of incorrect payment splits before users send payments.
 
 </div>
 
-
-
 ---
 
-## 🎯 Leadership & Impact
+## Background
 
 <table>
 <tr>
-<td width="33%">
+<td width="25%">
 
-### 🥽 Snap Inc - Software Engineer Intern
-- **🌟 Innovation:** Creating immersive AR experiences
-- **📱 Platform:** Developing for Snapchat's AR ecosystem
-- **🎨 Design:** Blending creativity with Lens Studio
-- **🚀 Impact:** Reaching millions of users worldwide
+### Microsoft
+
+Incoming Software Engineer Intern
 
 </td>
-<td width="33%">
+<td width="25%">
 
-### 👨‍💼 App Developer Club - Tech Lead
-- **📈 Efficiency:** 50% faster code reviews, 80% fewer bugs
-- **👥 Mentorship:** Weekly workshops for 20+ developers
-- **🛠️ Standards:** Established development best practices
+### Snap Inc.
+
+Snap Lens Scholar
 
 </td>
-<td width="33%">
+<td width="25%">
 
-### 👨‍🏫 Stanford Student Instructor
-- **📚 Teaching:** Mentored 15+ Python students
-- **🎯 Success Rate:** 95% assignment completion
-- **🤝 Collaboration:** Improved problem-solving by 35%
-- **💡 Innovation:** Designed peer programming exercises
+### Stanford
+
+Student Instructor, Code in Place
+
+</td>
+<td width="25%">
+
+### Minnesota Supercomputing Institute
+
+Undergraduate Research Intern
 
 </td>
 </tr>
 </table>
 
-
-
 ---
 
-## 📫 Let's Connect!
+## Currently Exploring
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taehoon-kang/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kang0493@umn.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thkang091)
+![Speculative Decoding](https://img.shields.io/badge/Speculative_Decoding-LLM_Inference-111827?style=for-the-badge)
+![Model Routing](https://img.shields.io/badge/Model_Routing-AI_Systems-374151?style=for-the-badge)
+![Document AI](https://img.shields.io/badge/Document_AI-Evaluation-4B5563?style=for-the-badge)
+![GPU Benchmarking](https://img.shields.io/badge/GPU_Benchmarking-Performance-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Product Engineering](https://img.shields.io/badge/Product_Engineering-Software-2563EB?style=for-the-badge)
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-taehoon--kang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taehoon-kang/)
+[![Email](https://img.shields.io/badge/Email-thkang091%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thkang091@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-thkang091-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thkang091)
+
+</div>
