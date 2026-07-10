@@ -151,7 +151,7 @@ Incoming Software Engineer Intern
 
 ### Snap Inc.
 
-Snap Lens Scholar
+Software Engineer Intern
 
 </td>
 <td width="25%">
