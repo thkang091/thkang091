@@ -14,7 +14,7 @@
 
 **Computer Science Student** @ University of Minnesota  
 **Incoming Software Engineer Intern** @ Microsoft  
-**Snap Lens Scholar** @ Snap Inc  
+**Software Engineer Intern** @ Snap Inc  
 **Student Instructor** @ Stanford Code in Place  
 **Undergraduate Research Intern** @ Minnesota Supercomputing Institute  
 **Location:** Minneapolis, MN | **Email:** thkang091@gmail.com
